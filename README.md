@@ -15,7 +15,7 @@ user-friendly.
 <br />
 [C++](https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=2784s).<br />
 [Python](https://www.youtube.com/watch?v=rfscVS0vtbw).<br />
-[Aditional about Python and programming](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg).
+[Aditional about competitive programming](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg).
 <br />
 ### Purpose
 As I am a suspicious person to talk, because I love it, challenges for me are pleasant... When I am taking a shower or almost sleeping or doing something randomic the answers sometimes
